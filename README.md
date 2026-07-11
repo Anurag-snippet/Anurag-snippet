@@ -19,13 +19,13 @@ My interests lie in Full Stack Web Development, Competitive Programming, and Ope
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react, typescript, tanstack router, tanstack query,tailwind,vite" />
 </p>
 
 ### Backend

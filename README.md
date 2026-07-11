@@ -25,7 +25,7 @@ My interests lie in Full Stack Web Development, Competitive Programming, and Ope
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react, typescript, tanstack router, tanstack query,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react, typescript,tailwind,vite" />
 </p>
 
 ### Backend

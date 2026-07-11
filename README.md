@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm Anurag Yadav, a passionate software developer and B.Tech IT student at RGIPT. I love transforming ideas into practical applications through clean code and thoughtful design.
+A passionate software developer and B.Tech IT student at RGIPT. I love transforming ideas into practical applications through clean code and thoughtful design.
 
 My interests lie in Full Stack Web Development, Competitive Programming, and Open Source. Whether it's building MERN applications, solving challenging DSA problems, or learning new technologies, I'm always looking for opportunities to improve my skills and create meaningful software.
 

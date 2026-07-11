@@ -40,12 +40,17 @@ My interests lie in Full Stack Web Development, Competitive Programming, and Ope
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### Python Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
 ### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me

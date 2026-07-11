@@ -56,7 +56,7 @@ My interests lie in Full Stack Web Development, Competitive Programming, and Ope
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Anurag-snippet">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 

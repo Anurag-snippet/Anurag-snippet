@@ -43,7 +43,8 @@ My interests lie in Full Stack Web Development, Competitive Programming, and Ope
 ### Python Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 </p>
 
 ### Tools & Technologies
